@@ -41,7 +41,7 @@ new…Angularのプロジェクトを新規作成する機能を使うことを�
 
 成功すると、以下の内容のフォルダが生成されているはずです。
 - [プロジェクト名]
- - e2e
- - node_modules
- - src
-  - app
+    - e2e
+    - node_modules
+    - src
+        - app

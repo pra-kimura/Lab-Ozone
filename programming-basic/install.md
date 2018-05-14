@@ -8,6 +8,11 @@ Angularを使うと、SPAすなわちシングルページアプリケーショ�
 Windowsではコマンドプロンプトというアプリか、PowerShellというアプリがあります。  
 Macではターミナルというアプリがあります。  
   
+## Visual Studio Codeのインストール
+プログラミングをするには、Windowsのメモ帳のようなテキストエディタでは話になりません。  
+Visual Studio Codeが扱いやすいので、インストールしてください。  
+[VS Code](https://www.microsoft.com/ja-jp/dev/products/code-vs.aspx)
+  
 ## Node.jsのインストール  
 Node.jsをインストールすると、npmというパッケージマネージャが使えるようになります。  
 [Node.js](https://nodejs.org/ja/)  
